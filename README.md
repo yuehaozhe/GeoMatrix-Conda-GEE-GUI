@@ -19,14 +19,19 @@
 | **Workflow Focus**      | Deep in dependency hell                | Distracted by slow load times          | **✦ Distraction-free research**                                |
 | **Value & Cost**        | Free (Hidden cost: hours of debugging) | Free (Hidden cost: bloated system lag) | **✦ $20 Lifetime (Early Bird)** *(Future standard: $20/month)* |
 
-
-
+<br>
 
 ## Architectural Integrity & Privacy
 
+
+
 ### File System Footprint
 
+
+
 ### Execution Flow & Security
+
+
 
 ### Local-First Privacy Policy
 

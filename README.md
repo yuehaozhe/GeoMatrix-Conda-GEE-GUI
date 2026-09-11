@@ -7,10 +7,10 @@
 ![Local-First](https://img.shields.io/badge/Architecture-Local--First-success)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000?logo=apple&logoColor=white)
-
+d
 <!-- 5、最新的下载链接 -->
 <!-- 6、官方网站 -->
-<!-- 7、社交媒体链接 -->
+<!-- 7、社交媒体icon(链接 )-->
 
 <!-- 特点 -->
 ## Visual Preview & 6 Core Features
@@ -19,7 +19,7 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 ### A. Conda Visual Management
 > **Encapsulate the lightning-fast Micromamba package management kernel within a pure, uncontaminated graphical sandbox.**
 
-| Dimension | Traditional Conda CLI / Anaconda Navigator | 🚀GeoMatrix Studio (Micromamba Sandbox) |
+| Dimension | Traditional Conda CLI / Anaconda Navigator | 🚀**GeoMatrix Studio (Micromamba Sandbox)** |
 | --- | --- | --- |
 | 🛠️ System Invasiveness | ⚠️Automatically overwrites the global PATH, which can easily cause conflicts between multiple Python versions | ✅Fully sandboxed, uses temporary environment variables, leaving no trace on the system |
 | 🧹 Installation and Cleanup | ❌Uninstallation leaves behind large amounts of cache, configuration files, and unused packages | ✨Folder-level data locking; one-click complete destruction leaves no junk files |

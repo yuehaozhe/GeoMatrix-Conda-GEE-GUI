@@ -7,6 +7,8 @@
 ![Local-First](https://img.shields.io/badge/Architecture-Local--First-success)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000?logo=apple&logoColor=white)
+
+
 <!-- 5、最新的下载链接 -->
 <!-- 6、官方网站 -->
 <!-- 7、社交媒体icon(链接 )-->

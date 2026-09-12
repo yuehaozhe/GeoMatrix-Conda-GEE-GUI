@@ -7,6 +7,7 @@
 ![Local-First](https://img.shields.io/badge/Architecture-Local--First-success)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000?logo=apple&logoColor=white)
+
 <!-- 官网 + 社交媒体 -->
 ## Want to learn more or chat with us?
 [![Website](https://img.shields.io/badge/Website-geomatrix.dev-2563eb)](https://geomatrix.dev)
@@ -14,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-contact%40geomatrix.dev-EA4335)](mailto:contact@geomatrix.dev)
 
 <!-- 图片 -->
-![GeoMatrix Studio](assets/Welcome.png)
+![GeoMatrix Studio](assets/welcome.png)
 
 <!-- 特点 -->
 ## I. Visual Preview & 6 Core Features

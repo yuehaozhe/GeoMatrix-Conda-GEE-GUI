@@ -58,6 +58,7 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 |💻 Changing Development Devices |❌ Re-fetch all packages; often encounter issues where older package versions have been discontinued or compilation fails | ✨ One-click export of an offline device-swap package; instantly restore the entire environment offline |
 | 👥 Adding New Members to the Group | ⚠️ Manually running `install` commands line by line according to documentation, taking several days and prone to errors | ✅ Import a standardized environment package template to align the group’s development environment in seconds |
 | ☁️ HPC / On-Premises Deployment (Future Plans) | ❌ Severe disconnect between local Windows/Mac and remote Linux HPC dependency environments | ✨ One-click synchronization from local to cluster (Roadmap), ensuring seamless migration of computing power |gee
+
 ![C. Designed specifically for laboratories and research groups](assets/export.png)
 
 <!-- 四、针对Windwos操作系统的创新性架构设计 -->

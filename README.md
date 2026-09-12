@@ -1,5 +1,3 @@
-vt
-
 # GeoMatrix Studio: Visual Management GUI for Conda, GCP & Google Earth Engine
 
 > **A system-friendly, privacy-first macOS desktop client engineered to streamline Python Conda environments and Earth Engine workflows for geoscientists.**

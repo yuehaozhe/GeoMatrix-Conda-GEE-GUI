@@ -7,14 +7,17 @@
 ![Local-First](https://img.shields.io/badge/Architecture-Local--First-success)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000?logo=apple&logoColor=white)
+<!-- 官网 + 社交媒体 -->
+## Want to learn more or chat with us?
+[![Website](https://img.shields.io/badge/Website-geomatrix.dev-2563eb)](https://geomatrix.dev)
+[![X](https://img.shields.io/badge/X-@GeoMatrix__Dev-000000?logo=x&logoColor=white)](https://x.com/GeoMatrix_Dev)
+[![Email](https://img.shields.io/badge/Email-contact%40geomatrix.dev-EA4335)](mailto:contact@geomatrix.dev)
 
-
-<!-- 5、最新的下载链接 -->
-<!-- 6、官方网站 -->
-<!-- 7、社交媒体icon(链接 )-->
+<!-- 图片 -->
+![GeoMatrix Studio](assets/Welcome.png)
 
 <!-- 特点 -->
-## Visual Preview & 6 Core Features
+## I. Visual Preview & 6 Core Features
 Discover how GeoMatrix Studio transforms the cumbersome and inefficient management of Conda environments and GCP projects into an elegant and efficient engineering experience.
 
 ### A. Conda Visual Management
@@ -26,6 +29,8 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | 🧹 Installation and Cleanup | ❌Uninstallation leaves behind large amounts of cache, configuration files, and unused packages | ✨Folder-level data locking; one-click complete destruction leaves no junk files |
 | 👁️ Package Information Awareness | ⚠️Command line displays only package names and versions; difficult to track size and licenses | ✅Visualized panoramic analysis provides an intuitive overview of the size and license of each dependency |
 | ⚡ User Experience | ❌High learning curve for the command line; Navigator launches slowly and is laggy | ✨Minimalist, modern UI with millisecond-level responsiveness; no need to memorize any terminal parameters |
+<!-- 图片 -->
+![Conda Visual Management](assets/conda.png)
 
 
 <!-- 二、Conda环境内管理包及包模版 -->
@@ -39,6 +44,10 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | ⚡Operational Efficiency | ❌ Requires entering each entry individually or manually editing complex `environment.yml` files | ✨Visual batch addition with built-in smart search and one-click batch injection |
 | 🔬Team Collaboration and Reproducibility | ⚠️ Exported YAML files often contain local absolute paths or system-specific binaries, making remote reproduction prone to errors | ✅ Standardized, lightweight template export ensures 100% reproducibility of research results and code across different devices |
 
+![Package Management & Environment Templates](assets/package.png)
+
+
+
 <!-- 三、针对实验室和课题组的功能 -->
 ### C. Designed specifically for laboratories and research groups
 > **Maintain a consistent environment so that reproducibility is no longer a challenge, and focus on the research itself rather than tedious environment configuration.**
@@ -47,8 +56,8 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | --- | --- | --- |
 |💻 Changing Development Devices |❌ Re-fetch all packages; often encounter issues where older package versions have been discontinued or compilation fails | ✨ One-click export of an offline device-swap package; instantly restore the entire environment offline |
 | 👥 Adding New Members to the Group | ⚠️ Manually running `install` commands line by line according to documentation, taking several days and prone to errors | ✅ Import a standardized environment package template to align the group’s development environment in seconds |
-| ☁️ HPC / On-Premises Deployment (Future Plans) | ❌ Severe disconnect between local Windows/Mac and remote Linux HPC dependency environments | ✨ One-click synchronization from local to cluster (Roadmap), ensuring seamless migration of computing power |
-
+| ☁️ HPC / On-Premises Deployment (Future Plans) | ❌ Severe disconnect between local Windows/Mac and remote Linux HPC dependency environments | ✨ One-click synchronization from local to cluster (Roadmap), ensuring seamless migration of computing power |gee
+![C. Designed specifically for laboratories and research groups](assets/export.png)
 
 <!-- 四、针对Windwos操作系统的创新性架构设计 -->
 ### D. Innovative Architectural Design for the Windows Operating System
@@ -74,6 +83,11 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | 💾 Log Persistence | ⚠️ Official logs are retained for only 10 days; records are lost after expiration and cannot be traced | ✅ Built-in high-performance SQLite database for permanent local storage of the full task history |
 | 💳 Quota and Cost Statistics | ❌ Severe billing delays make it difficult to intuitively understand how much of the quota the current research group has consumed | ✨ Four-tier visual cost dashboard for real-time control over cumulative consumption and remaining quota |
 
+![GEE_information](assets/gee_1.png)
+
+![GEE_Task_List](assets/gee_2.png)
+
+![GEE_EECU_Quota](assets/gee_3.png)
 
 <!-- 六、高性能与本地优先架构与充分的隐私保护 -->
 ### F. High-Performance Local-First Architecture & Zero-Trust Privacy
@@ -86,23 +100,48 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | 🌐 Network Communication | ❌ Data must be routed through and parsed by the vendor’s developer servers | ✨ Local-first direct connection, end-to-end communication only with Google and Conda’s official servers |
 | 🔒 Data Security & Privacy | ⚠️ Generally includes behavioral tracking, data reporting, and user tracking | ✅ Zero tracking, zero reporting; all network endpoints are publicly disclosed; supports full packet capture auditing |
 
+![Launch_Latency](assets/Launch_Latency.png)
+![GEE_EECU_Quota](assets/Memory_Footprint.png)
+![GEE_EECU_Quota](assets/Package_Footprint.png)
+![GEE_EECU_Quota](assets/privacy.png)
 
 <!-- 快速开始 -->
-## Quick Start
-<!-- 下载链接 -->
-<!-- 表单链接 -->
+## II. Quick Start
+We have launched a free beta test, and we invite everyone to download and try it out! You can download it using the link below, or via our **official website** or **GitHub Releases**.
+| Platform | Architecture | Get started |
+| --- | --- | --- |
+| Windows | x64 | [Join Windows beta](https://tally.so/r/ja8LqJ) |
+| macOS | Apple Silicon (M series) | [Join macOS beta](https://tally.so/r/ja8LqJ) |
+| macOS | Intel | [Join macOS beta](https://tally.so/r/ja8LqJ) |
 
 
 <!-- FAQ -->
-## FAQ
-<!-- Windows平台的SmartScreen平台警告说明 -->
-### A. 
-<!-- 如何加入到内测？ -->
-### B. 
-<!-- 内测是否收费？ -->
-### C.
-<!-- 内测有什么福利？ -->
-### D.
-<!-- 如何提出我的建议和意见？ -->
-### E.
+## III. FAQ
+
+### A. Why does Windows SmartScreen warn me during installation?
+
+GeoMatrix Studio is still in independent development and early beta. We have not yet completed Microsoft’s costly enterprise EV code-signing certificate. A formal Microsoft Store release is planned for the stable launch.
+
+- **Security commitment:** GeoMatrix Studio is fully aligned with open-source and local-first principles. There is no malware and no hidden behavior.
+- **Apple already verified:** The macOS build is signed and notarized through the official Apple Developer Program.
+- **Transparent network audit:** Windows users can inspect all outbound traffic with tools such as Wireshark or Fiddler. You can safely dismiss the SmartScreen warning and continue installing.
+
+### B. Is the beta free?
+
+Yes — completely free. All core features during the beta are available at no cost, with no hidden charges.
+
+### C. What benefits do beta testers get?
+
+- **Early-bird lifetime discount:** Users who join the beta and share feedback will receive an Early-Bird offer at the official release — a low-priced one-time purchase.
+- **Contributor lifetime license:** Contributors who submit constructive issues, PRs, feature suggestions, or useful bug reports may receive a lifetime free license, including all future major updates.
+
+### D. How can I share feedback or suggestions?
+
+| Channel | Get started |
+| --- | --- |
+| GitHub Issues | [Open an issue](https://github.com/yuehaozhe/GeoMatrix-Conda-GEE-GUI/issues) |
+| In-app Feedback | Use the Feedback panel inside GeoMatrix Studio |
+| X (Twitter) | [@GeoMatrix_Dev](https://x.com/GeoMatrix_Dev) |
+| Email | [contact@geomatrix.dev](mailto:contact@geomatrix.dev) |
+| Website | [geomatrix.dev](https://geomatrix.dev) |
 

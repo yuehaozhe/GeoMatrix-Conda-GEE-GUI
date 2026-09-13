@@ -5,7 +5,7 @@
 
 
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F73%20Clean-brightgreen)
-![Telemetry](https://img.shields.io/badge/Telemetry-Zero%20Tracking-blueviolet)
+![Telemetry](https://img.shields.io/badge/Telemetry-No%20Behavioral%20Tracking-blueviolet)
 ![Local-First](https://img.shields.io/badge/Architecture-Local--First-success)
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20%26%20Intel-000000?logo=apple&logoColor=white)
@@ -114,17 +114,17 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 
 
 
-### F. High-Performance Local-First Architecture & Zero-Trust Privacy
+### F. High-Performance Local-First Architecture & Privacy-First Design
 
-> **Redefining the limits of performance with the Tauri 2 engine and a local-first architecture, we build end-to-end communication with zero relays and zero tracking to safeguard the privacy of research data.**
+> **Tauri 2 + local-first: your research stays on your machine. No vendor relay for Earth Engine / GCP traffic, and no behavioral telemetry baked into the client.**
 
 
 | Dimension                  | Traditional Web/Electron Framework Software                                        | 🚀 GeoMatrix Studio (Tauri 2 Local-First)                                                                            |
 | -------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 🏗️Underlying Architecture | ⚠️ Heavyweight Chromium + Node.js                                                  | ✨ Tauri 2 + Rust native engine, directly calling the system’s native rendering layer                                 |
 | ⚡Resource Consumption      | ❌ High memory usage (often several GB), installation package is several hundred MB | ✅ Extremely low memory usage, lightweight installation package (tens of MB), ultra-fast startup in milliseconds      |
-| 🌐 Network Communication   | ❌ Data must be routed through and parsed by the vendor’s developer servers         | ✨ Local-first direct connection, end-to-end communication only with Google and Conda’s official servers              |
-| 🔒 Data Security & Privacy | ⚠️ Generally includes behavioral tracking, data reporting, and user tracking       | ✅ Zero tracking, zero reporting; all network endpoints are publicly disclosed; supports full packet capture auditing |
+| 🌐 Network Communication   | ❌ Data must be routed through and parsed by the vendor’s developer servers         | ✨ Local-first: GEE/GCP and package traffic go device → provider; **no GeoMatrix research-data relay**                |
+| 🔒 Data Security & Privacy | ⚠️ Generally includes behavioral tracking, data reporting, and user tracking       | ✅ No ads, no usage analytics, no hidden sync of research files; endpoints disclosed; packet-capture friendly         |
 
 
 ![Launch_Latency](assets/Launch_Latency.png)
@@ -153,20 +153,20 @@ We have launched a free beta test, and we invite everyone to download and try it
 
 GeoMatrix Studio is still in independent development and early beta. We have not yet completed Microsoft’s costly enterprise EV code-signing certificate. A formal Microsoft Store release is planned for the stable launch.
 
-- **Security commitment:** GeoMatrix Studio is fully aligned with open-source and local-first principles. There is no malware and no hidden behavior.
+- **Security commitment:** Local-first by design — no malware, no hidden research-data upload, no behavioral telemetry.
 - **Apple already verified:** The macOS build is signed and notarized through the official Apple Developer Program.
-- **Transparent network audit:** Windows users can inspect all outbound traffic with tools such as Wireshark or Fiddler. You can safely dismiss the SmartScreen warning and continue installing.
+- **Transparent network audit:** Windows users can inspect outbound traffic with Wireshark or Fiddler. You can safely dismiss the SmartScreen warning and continue installing.
 
 
 
 ### B. Is the beta free?
 
-Yes — completely free. All core features during the beta are available at no cost, with no hidden charges.
+Yes — completely free. Core features are unlocked for the closed beta, with no hidden charges and no purchase required.
 
 ### C. What benefits do beta testers get?
 
-- **Early-bird lifetime discount:** Users who join the beta and share feedback will receive an Early-Bird offer at the official release — a low-priced one-time purchase.
-- **Contributor lifetime license:** Contributors who submit constructive issues, PRs, feature suggestions, or useful bug reports may receive a lifetime free license, including all future major updates.
+- **Early-bird offer:** Join the beta and share feedback to receive a low-priced one-time Early-Bird purchase option at official release.
+- **Contributor thanks:** Constructive issues, PRs, feature ideas, or useful bug reports may earn a lifetime free license (including future major updates), confirmed when awarded.
 
 
 
@@ -181,4 +181,9 @@ Yes — completely free. All core features during the beta are available at no c
 | Email           | [contact@geomatrix.dev](mailto:contact@geomatrix.dev)                        |
 | Website         | [geomatrix.dev](https://geomatrix.dev)                                       |
 
+
+### E. Privacy & terms
+
+- [Privacy Policy](./PRIVACY.md) — local-first, minimal contact, no research-data relay
+- [Closed Beta Terms](./TERMS.md) — free beta license and acceptable use
 

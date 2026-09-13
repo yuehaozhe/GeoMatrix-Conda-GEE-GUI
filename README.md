@@ -123,7 +123,7 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 | -------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 🏗️Underlying Architecture | ⚠️ Heavyweight Chromium + Node.js                                                  | ✨ Tauri 2 + Rust native engine, directly calling the system’s native rendering layer                                 |
 | ⚡Resource Consumption      | ❌ High memory usage (often several GB), installation package is several hundred MB | ✅ Extremely low memory usage, lightweight installation package (tens of MB), ultra-fast startup in milliseconds      |
-| 🌐 Network Communication   | ❌ Data must be routed through and parsed by the vendor’s developer servers         | ✨ Local-first: GEE/GCP and package traffic go device → provider; **no GeoMatrix research-data relay**                |
+| 🌐 Network Communication   | ❌ Data must be routed through and parsed by the vendor’s developer servers         | ✨ Local-first: GEE/GCP and package traffic go device → provider; **no GeoMatrix Studio research-data relay**                |
 | 🔒 Data Security & Privacy | ⚠️ Generally includes behavioral tracking, data reporting, and user tracking       | ✅ No ads, no usage analytics, no hidden sync of research files; endpoints disclosed; packet-capture friendly         |
 
 

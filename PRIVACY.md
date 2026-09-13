@@ -5,7 +5,7 @@ Operator: Haozhe Yue / GeoMatrix Studio (Contact: contact@geomatrix.dev)
 I. Our Promise
 GeoMatrix Studio is built local-first for researchers. Your geospatial data, Conda environments, Google credentials, and compute results stay on your device by default.
 We do not sell your data. We do not run ads. We do not embed behavioral analytics, usage profiling, or hidden sync that phones home with your research.
-Earth Engine and GCP traffic goes from your machine straight to Google over HTTPS — not through a GeoMatrix relay.
+Earth Engine and GCP traffic goes from your machine straight to Google over HTTPS — not through a GeoMatrix Studio relay.
 
 II. What We Do Not Collect
 - Your research datasets, project files, or local computation outputs

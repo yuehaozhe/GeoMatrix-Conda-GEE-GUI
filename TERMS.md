@@ -26,7 +26,7 @@ You agree not to:
 Your research data, environments, templates, and exports remain yours and stay on your device by default. Back them up as you would any local work. We cannot remotely open your research files. See the Privacy Policy for our minimal operational contact (such as version checks) and for third-party services you opt into.
 
 6. Third-Party Services
-Optional features may use Google (Earth Engine / GCP), package registries, and feedback channels you open. Their terms and any cloud fees apply between you and them. We do not insert a GeoMatrix relay in front of your Earth Engine / GCP research traffic.
+Optional features may use Google (Earth Engine / GCP), package registries, and feedback channels you open. Their terms and any cloud fees apply between you and them. We do not insert a GeoMatrix Studio relay in front of your Earth Engine / GCP research traffic.
 
 7. Feedback & Rewards
 Feedback, ideas, and bug reports may be used to improve the Software. Contributor thanks and Early-Bird offers are at our discretion and, when awarded, confirmed separately in writing — they do not automatically convert beta use into a paid entitlement.

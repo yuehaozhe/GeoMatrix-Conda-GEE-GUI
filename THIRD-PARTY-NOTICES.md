@@ -7,11 +7,11 @@ are omitted unless they carry attribution-sensitive terms (for example MPL-2.0)
 or are material to the product (SQLite, TLS).
 
 Unless otherwise noted, licenses are as declared by the upstream projects at the
-versions used in GeoMatrix `0.2.2-beta.2`. Full license texts are available from
-the linked repositories and from the dependency trees in the GeoMatrix source
+versions used in GeoMatrix Studio `0.2.2-beta.2`. Full license texts are available from
+the linked repositories and from the dependency trees in the GeoMatrix Studio source
 (`package.json` / `pnpm-lock.yaml`, `src-tauri/Cargo.toml` / `Cargo.lock`).
 
-User-installed Conda / PyPI / PyTorch packages are **not** part of GeoMatrix
+User-installed Conda / PyPI / PyTorch packages are **not** part of GeoMatrix Studio
 itself; they keep their own licenses between you and those package authors.
 
 ---
@@ -89,29 +89,29 @@ the host OS or platform SDKs and remain subject to their respective terms.
 
 MPL-2.0 components are used in binary form as part of the dependency graph.
 Corresponding source is available from the upstream projects named above and from
-crates.io / the Cargo.lock pins used to build GeoMatrix.
+crates.io / the Cargo.lock pins used to build GeoMatrix Studio.
 
 ---
 
 ## 4. Separately downloaded tools (first-run / user machine)
 
-These are **not** compiled into the GeoMatrix binary. The app may download and
+These are **not** compiled into the GeoMatrix Studio binary. The app may download and
 install them into the application data directory during setup or when you enable
 related features. Their licenses and terms apply between you and the upstream
 vendor.
 
-| Component | Typical use in GeoMatrix | License / terms | Source |
+| Component | Typical use in GeoMatrix Studio | License / terms | Source |
 | --- | --- | --- | --- |
 | Micromamba | Sandboxed Conda/Mamba package manager | BSD-3-Clause (upstream); redistributed builds may include additional MIT / OpenSSL notices | https://github.com/mamba-org/mamba — downloads via https://micro.mamba.pm |
 | Google Cloud CLI / SDK (`gcloud`) | GCP project setup & Earth Engine workflows | Google Cloud SDK / Google Terms of Service (contains proprietary and open-source components) | https://cloud.google.com/sdk — downloads via Google Cloud CLI channels |
 
 Packages you later install with Micromamba from Conda-Forge, PyPI, PyTorch, or
-other channels are third-party software under **their** licenses; GeoMatrix does
+other channels are third-party software under **their** licenses; GeoMatrix Studio does
 not relicense them.
 
 Google Earth Engine / GCP APIs are cloud services. Using them is subject to
-Google’s product terms and quotas; GeoMatrix does not relay your research traffic
-through a GeoMatrix server (see `PRIVACY.md`).
+Google’s product terms and quotas; GeoMatrix Studio does not relay your research traffic
+through a GeoMatrix Studio server (see `PRIVACY.md`).
 
 ---
 

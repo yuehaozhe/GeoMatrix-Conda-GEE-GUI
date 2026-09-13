@@ -186,4 +186,5 @@ Yes — completely free. Core features are unlocked for the closed beta, with no
 
 - [Privacy Policy](./PRIVACY.md) — local-first, minimal contact, no research-data relay
 - [Closed Beta Terms](./TERMS.md) — free beta license and acceptable use
+- [Third-Party Notices](./THIRD-PARTY-NOTICES.md) — open-source and third-party components
 

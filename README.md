@@ -130,7 +130,6 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 ![Launch_Latency](assets/Launch_Latency.png)
 ![GEE_EECU_Quota](assets/Memory_Footprint.png)
 ![GEE_EECU_Quota](assets/Package_Footprint.png)
-![GEE_EECU_Quota](assets/privacy.png)
 
 
 

@@ -7,7 +7,7 @@ are omitted unless they carry attribution-sensitive terms (for example MPL-2.0)
 or are material to the product (SQLite, TLS).
 
 Unless otherwise noted, licenses are as declared by the upstream projects at the
-versions used in GeoMatrix Studio `0.2.2-beta.2`. Full license texts are available from
+versions used in GeoMatrix Studio `0.3.0-beta.3`. Full license texts are available from
 the linked repositories and from the dependency trees in the GeoMatrix Studio source
 (`package.json` / `pnpm-lock.yaml`, `src-tauri/Cargo.toml` / `Cargo.lock`).
 

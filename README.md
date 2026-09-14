@@ -138,11 +138,11 @@ Discover how GeoMatrix Studio transforms the cumbersome and inefficient manageme
 We have launched a free beta test, and we invite everyone to download and try it out! You can download it using the link below, or via our **official website** or **GitHub Releases**.
 
 
-| Platform | Architecture             | Get started                                    |
-| -------- | ------------------------ | ---------------------------------------------- |
-| Windows  | x64                      | [Join Windows beta](https://tally.so/r/ja8LqJ) |
-| macOS    | Apple Silicon (M series) | [Join macOS beta](https://tally.so/r/ja8LqJ)   |
-| macOS    | Intel                    | [Join macOS beta](https://tally.so/r/ja8LqJ)   |
+| Platform | Architecture             | Get started                                                                                                                                        |
+| -------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | x64                      | [Join Windows beta](https://tally.so/r/ja8LqJ)                                                                                                     |
+| macOS    | Apple Silicon (M series) | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/darwin-aarch64/GeoMatrix_0.3.0-beta.3_aarch64.dmg)                             |
+| macOS    | Intel                    | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/darwin-x86_64/GeoMatrix_0.1.6-beta.1_aarch64.dmg) |
 
 
 
@@ -179,11 +179,3 @@ Yes — completely free. Core features are unlocked for the closed beta, with no
 | X (Twitter)     | [@GeoMatrix_Dev](https://x.com/GeoMatrix_Dev)                                |
 | Email           | [contact@geomatrix.dev](mailto:contact@geomatrix.dev)                        |
 | Website         | [geomatrix.dev](https://geomatrix.dev)                                       |
-
-
-### E. Privacy & terms
-
-- [Privacy Policy](./PRIVACY.md) — local-first, minimal contact, no research-data relay
-- [Closed Beta Terms](./TERMS.md) — free beta license and acceptable use
-- [Third-Party Notices](./THIRD-PARTY-NOTICES.md) — open-source and third-party components
-

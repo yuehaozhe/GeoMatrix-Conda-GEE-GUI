@@ -140,9 +140,9 @@ We have launched a free beta test, and we invite everyone to download and try it
 
 | Platform | Architecture             | Get started                                                                                                                                        |
 | -------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | x64                      | [Join Windows beta](https://tally.so/r/ja8LqJ)                                                                                                     |
+| Windows  | x64                      | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/windows-x86_64/GeoMatrix_0.3.0-beta.3_x64-setup.exe)                           |
 | macOS    | Apple Silicon (M series) | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/darwin-aarch64/GeoMatrix_0.3.0-beta.3_aarch64.dmg)                             |
-| macOS    | Intel                    | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/darwin-x86_64/GeoMatrix_0.1.6-beta.1_aarch64.dmg) |
+| macOS    | Intel                    | [Download](https://update.geomatrix.dev/GeoMatrix_Beta/v0.3.0-beta.3/darwin-x86_64/GeoMatrix_0.3.0-beta.3_x64.dmg) |
 
 
 
